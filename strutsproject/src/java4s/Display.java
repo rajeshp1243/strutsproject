@@ -15,7 +15,7 @@ public class Display extends ActionSupport implements ServletRequestAware {
 	private static final long serialVersionUID = 1L;
 
 	HttpServletRequest request;
-
+//
 	public String execute() {
 
 		try {
